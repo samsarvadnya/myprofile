@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    margin-left: 11%;
+    margin-right: 11%;
+    background-image: url(image/backgroundprofile2.jpg);
+    color: white;
+    font-family: cursive;   
+}
+#main{
+    background-image: url(image/backgroundprofile.jpg);
+}
+
+img{
+    border-radius: 5px;
+    margin: 1%;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 22px;
+    padding: 2em;
+    font-weight: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 4%;
+    
+}
+.name{
+    background-color: rgb(0, 0, 0)
+    padding: 15px;
+    color: white;
+    font-size: 38px;
+
+}
+#prof{
+    float: left;
+    width: 20%;
+    height: 20%;
+    margin-left: 12%;
+    border-radius: 15px;
+
+}
+.skills{
+    font-family: cursive;
+    font-size: 22px;
+    
+}
+header{
+    height: 20px;
+    width: 100%;
+}
+.site
+{
+    margin-left: 76%;
+}
+.intro{
+    margin-left: 11%;
+    margin-right: 11%;
+}
+.intro1{
+  
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.253);
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px;
+    float: right;
+    color: white;
+}
+
