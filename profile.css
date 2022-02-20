@@ -74,4 +74,25 @@ nav a{
     float: right;
     color: white;
 }
+.projects{
+    height: 550px;
+    width: 100%;
 
+}
+.card{
+    height: 480px;
+    width: 48%;
+    
+    float: left;
+    margin: 1%;
+}
+.component1{
+    height: 400px;
+    width: 100%;
+    
+
+}
+.component1> img{
+    height: 450px;
+    width: 100%;
+}
